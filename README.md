@@ -7,3 +7,6 @@ This repo includes
 - Change figure size, aspect ratio
 - Legend usage
 - setting colors, linewidth and linestyle
+
+
+Reference: https://matplotlib.org/index.html
